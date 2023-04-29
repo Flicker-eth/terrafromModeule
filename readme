@@ -1,0 +1,2 @@
+In the module block, source specifies the path to the directory containing your module (in this case, the relative path ../my-vpc-module). 
+The other variables are passed to the module as input variables.
