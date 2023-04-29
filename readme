@@ -1,2 +1,8 @@
 In the module block, source specifies the path to the directory containing your module (in this case, the relative path ../my-vpc-module). 
 The other variables are passed to the module as input variables.
+
+
+Run terraform init to download the necessary providers.
+
+Run terraform apply to create your VPC, subnets, NAT gateway, and virtual machine.
+
